@@ -13,6 +13,10 @@ namespace yuanzhan
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("有内鬼，停止交易");
+
             //var input = Console.ReadLine();
 
             //var type = typeof(studect);
